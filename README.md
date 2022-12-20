@@ -1,5 +1,5 @@
 # code-refactor
 Improving HTML semantics and accessibility, and optimizing CSS
-Screenshot 2022-12-17 at 2.39.42 PM.png
-Screenshot 2022-12-17 at 2.39.56 PM.png
-Screenshot 2022-12-17 at 2.40.06 PM.png
+Consolidating CSS selector and properties,
+organizing them to follow the sematic structure of the HTML element,
+![Screenchot of my website](<img width="1439" alt="Website-screenshot" src="https://user-images.githubusercontent.com/118768377/208609394-16f5ce2d-0f7a-4439-80da-bc6545b4a7d9.png">
