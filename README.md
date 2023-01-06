@@ -13,4 +13,9 @@ Elements in sequential order
 The title element
 A concise, descriptive title
 ![Screenchot of my website](<img width="1439" alt="Website-screenshot" src="https://user-images.githubusercontent.com/118768377/208609394-16f5ce2d-0f7a-4439-80da-bc6545b4a7d9.png">
-http://127.0.0.1:5501/Code-Refactor/index.html
+
+## GitHub Repo Link - 
+https://github.com/Aboubacar7/Code-RefactorLinks to an external site.
+
+## Live URL - 
+https://aboubacar7.github.io/Code-Refactor/Links to an external site.
