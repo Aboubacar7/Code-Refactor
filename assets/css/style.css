@@ -4,9 +4,13 @@
     margin: 0;
 }
 
+/* Body Styling */
+
 body {
     background-color: #d9dcd6;
 }
+
+/* Header Styling */
 
 .header {
     padding: 20px;
@@ -45,6 +49,8 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
+
+/* Main Section 'Hero' Section Styling */
 
 p {
     font-size: 16px;
@@ -99,6 +105,8 @@ p {
     font-size: 36px;
 }
 
+/* Styling Section Benefits */
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -131,6 +139,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* Styling Footer */
 
 .footer {
     padding: 30px;
